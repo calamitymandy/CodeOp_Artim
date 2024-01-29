@@ -24,17 +24,6 @@ Re-imagining art!
 ## Framework
 - React
 
-# Artim: 
-
-Creative hub & artist community
-
-Re-imagining art!
-
-Sharing resources, tips, events about fine arts & audio visual work and artists all over the world.
-
-Post about your ideas, your work, your inspirations and inspire the world!
-
-
 ## Configuration
 ### Dependencies
 
@@ -59,17 +48,15 @@ JWT_SECRET=yoursecretlongkey (after adding JWT re-start the app)
 
 ### Run development servers
 
-- Run `npm start` in project's folder to start Express server in port en el puerto 5001
+- Run `npm start` in project's folder to start Express server in port 5001
 - Do `cd artim-app` and run `npm run dev` to start client server in dev mode with *hot reloading in port 3001.
 - You can check client's app at `http://localhost:3001`
 - You can check API at `http://localhost:5001/nameoftable`
 
 
-## INTRO to the App
+## The App
 
-
-
-#### Technology Stack intro
+#### Technology Stack
 
 
     - ckeditor
@@ -126,7 +113,7 @@ user_search
 - WYGIWYS Editor: CKEditor `https://ckeditor.com/`
 
 
-#### Arquitectura
+#### Architecture
 
 Navbar: 
 
